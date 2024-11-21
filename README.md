@@ -25,6 +25,7 @@ source env/bin/activate
 - Run the following command to setup the database
 ```
 python manage.py migrate
+python manage.py makemigrations
 ```
 - Now you can start the project and enjoy by running the following command.
 ```
