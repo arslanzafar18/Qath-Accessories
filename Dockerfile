@@ -1,4 +1,4 @@
-From python:3
+From python:3.10.0
 Run pip install django==3.2.12
 Run pip install asgiref==3.5.0
 Run pip install Pillow==11.2.1
