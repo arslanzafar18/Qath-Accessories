@@ -1,4 +1,4 @@
-# Legal Accessories Ecommerce Site
+# Qath Accessories Ecommerce Site
 
 ## Introduction
 The given repository is an Ecommerce Website built with Python/Django.
